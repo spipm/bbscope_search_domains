@@ -11,9 +11,12 @@ BC_EMAIL=
 OUTPUT_FILE=resolvable_targets.txt
 ```
 (fill in your tokens)
+
 2. Check `search_domains.sh`, uncomment Bugcrowd lines if you want
+
 3. Start a venv and install requirements
-4. Run ./search_domains.sh
+
+f4. Run ./search_domains.sh
 
 ### Warning
 
