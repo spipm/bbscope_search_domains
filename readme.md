@@ -16,7 +16,7 @@ OUTPUT_FILE=resolvable_targets.txt
 
 3. Start a venv and install requirements
 
-f4. Run ./search_domains.sh
+4. Run ./search_domains.sh
 
 ### Warning
 
