@@ -1,6 +1,7 @@
 
+### Usage
 
-Create an .env file
+1. Create an .env file
 ```
 TMP_DIR=./tmp
 H1_TOKEN=
@@ -9,6 +10,10 @@ BC_TOKEN=
 BC_EMAIL=
 OUTPUT_FILE=resolvable_targets.txt
 ```
+(fill in your tokens)
+2. Check `search_domains.sh`, uncomment Bugcrowd lines if you want
+3. Start a venv and install requirements
+4. Run ./search_domains.sh
 
 ### Warning
 
